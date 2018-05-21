@@ -1,25 +1,47 @@
 *******QUESTION 1*
 1. What happens when you initialize a repository? Why do you need to do it?
 
-When I initialize the repository an initial git commit happens is created and all changes that you commit will be tracked using git. "git int" to initialize a repository with git and "git status" to check all changes that have been committed since last commit
+When I initialize the repository an initial git commit happens
+is created and all changes that you commit will be tracked 
+using git. "git int" to initialize a repository with git and
+"git status" to check all changes that have been committed
+since last commit
 
 *******QUESTION 2*
 2. How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-staging area allows us to see which files we want to commit before actually doing so. this also allows us to commit several files before actually doing so.
-It offers a great value becuse sometimes we do not want all files to be commited, may we only want just one file. 
+staging area allows us to see which files we want to commit
+before actually doing so. this also allows us to commit several
+files before actually doing so.
+It offers a great value becuse sometimes we do not want all
+files to be commited, may we only want just one file. 
 
 *******QUESTION 3*
-3. How can you use the staging area to make sure you have one commit per logical
-change?
+3. How can you use the staging area to make sure you have one
+commit per logical change?
+
+I can select which files to commit everytime I save I can go into
+git and commit every time I feel that there is a significant enough change.
 
 *******QUESTION 4*
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in
+keeping your history organized? How would branches help?
+
+Having multiples modes of a game or simply testing a game allows
+to save different features without compromising a previously committed change.
+some people see branches as experimental developments of a program, testing features, or the one they are actively working on. 
+Master branch should be the one version of the program that
+always works.
 
 *******QUESTION 5*
 How do the diagrams help you visualize the branch structure?
+
+we cam see all the changes that we have made over time plus we
+can also keep track of where we are in the program so we can
+share with others what we are currently working on; later on
+we can merge all our work together into the master file if 
+everything is working fine.
 
 *******QUESTION 6*
 What is the result of merging two branches together? Why do we represent it in
