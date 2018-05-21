@@ -1,0 +1,53 @@
+/*QUESTION 1*/
+How did viewing a diff between two versions of a file help 
+you see the bug that was introduced?
+
+it helped me see that there was an error in the code.
+according to this lesson I learn why formatting is
+important while we are coding. If we do not format our files
+properly we can end up with code in a single line that 
+contains too many characters; This makes it harder for the
+command line tools such as Git to be useful. Since if we use 
+commands like "diff" (used for comparing files differences)
+it will only show that two files are different. It is not
+able to pinpoint the location of the diffence to me.
+
+/*QUESTION 2*/
+How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
+
+1. I can easily go back to through the history of my files
+to see all the changes that have been made since the start
+of the project.
+2. If a new version of the program is not working I can
+easily go back to an old version to figure out what changes
+made the program not being to able to work anymore.
+
+/*QUESTION 3*/
+What do you think are the pros and cons of manually choosing
+when to create a commit, like you do in Git, vs having
+versions automatically saved, like Google Docs does?
+
+It's more logical to create a commit manually since it tends
+to go with when the users made changes that are useful to the
+program. It can be very tedious to check too many versions of 
+the program that have been saved automatically.
+
+/*QUESTION 4*/
+Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, like
+Google Docs, treat each file separately?
+
+This correlates a lot to the users' needs. Git is more for 
+developers therefore it makes more since to allowing saving
+multiples files in one commit. Programs such as Google Docs
+are built for the every day user that doesn't need multiple
+versions of files to be saved at once.
+
+/*QUESTION 5*/
+How can you use the commands git log and git diff to view 
+the history of files?
+
+git log allows to see a set of revisions. git diff you can
+see the difference between two revisions of the same file.
+
