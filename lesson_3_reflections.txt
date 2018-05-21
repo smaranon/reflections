@@ -1,0 +1,7 @@
+/**QUESTION 1**/
+When would you want to use a remote repository rather than keeping all your work local?
+
+If you are the only one workng on a project you might want to keep most of your files
+remotely that way others can access them.
+Also if you have different computer such as a home and/or work computer and you are
+contastly working in different places.
