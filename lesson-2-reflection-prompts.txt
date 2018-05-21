@@ -44,9 +44,17 @@ we can merge all our work together into the master file if
 everything is working fine.
 
 *******QUESTION 6*
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+by merging to branches we can unify all the work everyone has
+been working on so far.
+the diagram is represented the way it is since we want to be able
+to look at the diagram and tells us exactly what changes took
+place in the branches of our working tree.
 
 ********QUESTION 7*
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always
+doing merges manually?
+
+By doing merges manually we are able to check ourselves and communicate with coworkers about which changes are best to keep and delete.
