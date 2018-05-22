@@ -5,3 +5,10 @@ If you are the only one workng on a project you might want to keep most of your 
 remotely that way others can access them.
 Also if you have different computer such as a home and/or work computer and you are
 contastly working in different places.
+
+/**QUESTION 2**/
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+Because someone else might be working on the same feature that I am currently working
+so I would not want to automatically sync any changes to my local repository.
