@@ -37,3 +37,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Well, before I knew about Github I used to used Google Docs to share files with my team but
 Git and GitHub offers so many tools to collaborate that makes it easier to share everything
 with everyone without being in the same location.
+
+/**QUESTION 6**/
+When would you want to make changes in a separate branch rather than directly in master? What 
+benefits does each approach have?
+
+If you are working in a group and they would like for you to add a new feauture but first consult
+you about it or just test it out without affecting any changes taking place in the master branch.
