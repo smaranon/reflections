@@ -30,3 +30,10 @@ and features being work by everyone.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The biggest benefit it's that you can work offline with the latest information.
+
+/**QUESTION 5**/
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Well, before I knew about Github I used to used Google Docs to share files with my team but
+Git and GitHub offers so many tools to collaborate that makes it easier to share everything
+with everyone without being in the same location.
