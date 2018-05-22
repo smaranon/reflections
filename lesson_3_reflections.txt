@@ -25,3 +25,8 @@ it's a bit complicated to work on GitHub you can simply download it and work on 
 favorite application.
 branches are form every time a commitment happens. it helps the team keep track of changes 
 and features being work by everyone.
+
+/**QUESTION 4**/
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The biggest benefit it's that you can work offline with the latest information.
